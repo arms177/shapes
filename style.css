@@ -1,0 +1,72 @@
+.relative{
+  position:relative;
+  top:300px;
+  left:100px;
+  width:800px;
+  height:800px;
+  
+}
+.red-circle {
+  z-index: 3;
+  position: absolute;
+  left:500px;
+  top:200px;
+  width:100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #BF3D21;
+}
+.yellow-circle {
+  z-index: 6;
+  position: absolute;
+  left:450px;
+  top:260px;
+  width:100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #CADF2F;
+}
+.orange-circle {
+  z-index: 6;
+  position: absolute;
+  left:550px;
+  top:260px;
+  width:100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #F0881A;
+}
+.third-orange {
+  z-index: 3;
+  left: 400px;
+  top: 300px;
+}
+.blue-circle {
+  z-index: 3;
+  position: absolute;
+  left:590px;
+  top:300px;
+  width:100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #88E5F5;
+}
+.fourth-blue {
+  z-index: 6;
+  left: 450px;
+  top: 360px;
+}
+.grey-circle {
+  z-index: 4;
+  position: absolute;
+  left:550px;
+  top:360px;
+  width:100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #ACB3B4;
+}
+.fifth-red {
+  z-index: 5;
+  top: 400px;
+}
